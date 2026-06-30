@@ -3,6 +3,7 @@ body {
   margin: 20px;
   background: #f4f4f9;
   text-align: center;
+  font-size: 26px; /* default ukuran teks */
 }
 
 h1, h2 {
